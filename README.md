@@ -1,3 +1,4 @@
+git clone git@github.com:seancclynch/vfa-deploy-on-day-1-vfa-2018.git
 # Deploy on Day One
 
 ## Contents
